@@ -1,0 +1,25 @@
+type BancoImagens @model @auth(rules: [{allow: public}]) {
+  id: ID!
+  EmpresaExemplo: AWSURL
+  ImagemDeFundo: AWSURL
+  LogoBrancaConecta: AWSURL
+  LogoFundoBrancoConecta: AWSURL
+  LogoAzulConecta: AWSURL
+  PerfilFotoExemploReal: AWSURL
+  InteligenciaArtificial: AWSURL
+  LogoPretaConecta: AWSURL
+  Background2: AWSURL
+  JoiaSenha: AWSURL
+  ChavesSenha: AWSURL
+  PerfilSemFoto: AWSURL
+  GoogleLogo: AWSURL
+  FacebookLogo: AWSURL
+  JoiaTelefone: AWSURL
+  PerfilAvatar: AWSURL
+  Post1: AWSURL
+  Post2: AWSURL
+  Post3: AWSURL
+  Post4: AWSURL
+  Post5: AWSURL
+  MonicaIPerfil: AWSURL
+} 
