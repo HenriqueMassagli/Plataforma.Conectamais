@@ -1,70 +1,40 @@
-# Getting Started with Create React App
+<div align="center">
+  <img src="https://github.com/Projeto-PROA-Conecta/.github/blob/main/profile/Logo Conecta+.png" width="50%">
+</div>
 
-This project was bootstrapped with [Create React App](https://github.com/facebook/create-react-app).
+---
 
-## Available Scripts
+<h1 align="center">Seja bem-vindo(a) ao Github da Conecta+ 🧩</h1>
+<p align="center">Nascemos para evoluir o mercado e fornecer igualdade e respeito por cada pessoa em suas condições.</p>
 
-In the project directory, you can run:
+---
 
-### `npm start`
+<h3 align="center">Missão 🎯</h3>
+<p align="center">A missão da Conecta+ é promover a inclusão e o desenvolvimento de pessoas com TEA, oferecendo apoio especializado, atividades e recursos para a integração social, educacional e profissional, além de suporte para suas famílias e cuidadores.</p>
 
-Runs the app in the development mode.\
-Open [http://localhost:3000](http://localhost:3000) to view it in your browser.
+---
 
-The page will reload when you make changes.\
-You may also see any lint errors in the console.
+<h3 align="center">Visão 👀</h3>
+<p align="center">A Conecta+ busca construir uma sociedade inclusiva e consciente para pessoas com TEA, garantindo autonomia, dignidade e acesso igualitário a oportunidades. A organização aspira ser referência em atendimento e apoio à comunidade TEA, promovendo mudanças sociais e conscientização.</p>
 
-### `npm test`
+---
 
-Launches the test runner in the interactive watch mode.\
-See the section about [running tests](https://facebook.github.io/create-react-app/docs/running-tests) for more information.
+<h3 align="center">Valores 💡</h3>
+<p align="center">Inclusão, Empatia, Respeito, Inovação, Aprendizado, Compromisso e Responsabilidade Social.</p>
 
-### `npm run build`
+---
 
-Builds the app for production to the `build` folder.\
-It correctly bundles React in production mode and optimizes the build for the best performance.
+<h2 align="center">Acesse nossa plataforma 🌐🔗</h2>
+<div align='center'>
+  <a href="https://plataforma-conectamais.vercel.app/Home" target="_blank"><img src="https://github.com/Projeto-PROA-Conecta/.github/blob/main/profile/Contas.png" alt='Home Conecta+' width="70%"> 
+</div>
 
-The build is minified and the filenames include the hashes.\
-Your app is ready to be deployed!
+---
 
-See the section about [deployment](https://facebook.github.io/create-react-app/docs/deployment) for more information.
+<h2 align="center">Conheça nossa equipe 🤝💼</h2>
+<br><br>
+<div align="center">
+     <a href="https://linktr.ee/conectamaisproa" target="_blank"><img src="https://github.com/Projeto-PROA-Conecta/.github/blob/main/profile/Integrantes.png" alt='Integrantes Conecta+'
+</div>
 
-### `npm run eject`
-
-**Note: this is a one-way operation. Once you `eject`, you can't go back!**
-
-If you aren't satisfied with the build tool and configuration choices, you can `eject` at any time. This command will remove the single build dependency from your project.
-
-Instead, it will copy all the configuration files and the transitive dependencies (webpack, Babel, ESLint, etc) right into your project so you have full control over them. All of the commands except `eject` will still work, but they will point to the copied scripts so you can tweak them. At this point you're on your own.
-
-You don't have to ever use `eject`. The curated feature set is suitable for small and middle deployments, and you shouldn't feel obligated to use this feature. However we understand that this tool wouldn't be useful if you couldn't customize it when you are ready for it.
-
-## Learn More
-
-You can learn more in the [Create React App documentation](https://facebook.github.io/create-react-app/docs/getting-started).
-
-To learn React, check out the [React documentation](https://reactjs.org/).
-
-### Code Splitting
-
-This section has moved here: [https://facebook.github.io/create-react-app/docs/code-splitting](https://facebook.github.io/create-react-app/docs/code-splitting)
-
-### Analyzing the Bundle Size
-
-This section has moved here: [https://facebook.github.io/create-react-app/docs/analyzing-the-bundle-size](https://facebook.github.io/create-react-app/docs/analyzing-the-bundle-size)
-
-### Making a Progressive Web App
-
-This section has moved here: [https://facebook.github.io/create-react-app/docs/making-a-progressive-web-app](https://facebook.github.io/create-react-app/docs/making-a-progressive-web-app)
-
-### Advanced Configuration
-
-This section has moved here: [https://facebook.github.io/create-react-app/docs/advanced-configuration](https://facebook.github.io/create-react-app/docs/advanced-configuration)
-
-### Deployment
-
-This section has moved here: [https://facebook.github.io/create-react-app/docs/deployment](https://facebook.github.io/create-react-app/docs/deployment)
-
-### `npm run build` fails to minify
-
-This section has moved here: [https://facebook.github.io/create-react-app/docs/troubleshooting#npm-run-build-fails-to-minify](https://facebook.github.io/create-react-app/docs/troubleshooting#npm-run-build-fails-to-minify)
+---
